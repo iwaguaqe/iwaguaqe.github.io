@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwaguaqe.github.io/WaB/sitemap_index.txt
+Sitemap: https://iwaguaqe.github.io/YPV/sitemap_index.txt
+Sitemap: https://iwaguaqe.github.io/dpt/sitemap_index.txt
+Sitemap: https://iwaguaqe.github.io/qck/sitemap_index.txt
